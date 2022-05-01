@@ -1,0 +1,20 @@
+{
+  "name": "brigaderadio",
+  "main": "index.js",
+  "author": "NOKY",
+  "version": "5.0.0",
+  "repository": "https://discord.gg/v6CdFJwW9f",
+  "description": "Bot Français Multifonction.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.3",
+    "humanize-duration": "^3.27.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^3.2.3",
+    "opus": "^0.0.0"
+  }
+}
