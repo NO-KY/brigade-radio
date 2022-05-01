@@ -8,7 +8,7 @@ module.exports = {
 
     discord: {
         name: 'Brigade Radio 🎧',
-        token: 'ODU5NjQ0MTUzNDYxOTk3NjA4.YNvsAQ.rPvgnj2U1OhOuWuqHZnJ2rFnIeo',
+        token: 'YOUR_TOKEN',
         prefix: '%',
         color: '#fff100',
         colorSuccess: '#00ff22',
