@@ -13,6 +13,6 @@ module.exports = {
         color: '#fff100',
         colorSuccess: '#00ff22',
         colorError: '#e00000',
-        devs: ['753653005701611661'],
+        devs: ['YOUR_ID'],
         }
 };
